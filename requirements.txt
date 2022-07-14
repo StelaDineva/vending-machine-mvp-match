@@ -1,0 +1,12 @@
+# Main frameworks
+Django==4.0.6
+djangorestframework==3.13.1
+
+# admin
+django-grappelli==3.0.3
+
+# Authentication JWT
+djangorestframework-simplejwt==5.2.0
+
+# OpenApi 3 auto-generated documentation tool
+drf-spectacular
